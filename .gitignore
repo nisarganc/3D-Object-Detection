@@ -1,3 +1,6 @@
+data/
+task.pdf
+.pointcloud/
 .vscode
 score_hma
 painted_lidar
